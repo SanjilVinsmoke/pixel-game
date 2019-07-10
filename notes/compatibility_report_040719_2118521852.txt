@@ -1,0 +1,1 @@
+Resource name collision 'Jungle_Tileset' already exists, renamed to 'Jungle_Tileset_backgrounds'
