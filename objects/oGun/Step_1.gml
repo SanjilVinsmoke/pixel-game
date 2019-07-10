@@ -29,6 +29,7 @@ if(mouse_check_button(mb_left)&& (firedelay <0))
 {
 	recoil = 4;
 	firedelay = 5;
+	ScreenShake(2,10);
 	// bullet firing
 	with (instance_create_layer(x,y,"Bullet",oBullet))
 	{

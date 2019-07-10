@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "77435e84-fe7e-4a49-b191-102419ca1061",
+            "Value": {
+                "id": "f7d97f90-f926-4d1a-8a96-5a5f980111de",
+                "resourcePath": "sprites\\slayer01\\slayer01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7ce5715a-e645-4747-b851-d33ceee13e6d",
             "Value": {
                 "id": "b16587e7-fecd-4efd-99a9-c5175f413ce6",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "911fe669-dcbb-4373-8358-2c85c9479cc2",
+            "Value": {
+                "id": "be441509-6b67-41de-b3ed-c73c28d1b68a",
+                "resourcePath": "sprites\\slayer03\\slayer03.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "d10366b2-0a9c-46d2-8d34-56ebd691de68",
@@ -335,11 +351,27 @@
             }
         },
         {
+            "Key": "a0bb9f36-7823-4d68-ac9e-ed5315195426",
+            "Value": {
+                "id": "e325a331-f484-4554-bc5f-9b20894b68b3",
+                "resourcePath": "sprites\\slayer05\\slayer05.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "e400ffbe-7345-4f78-8ac2-811c614bb359",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a60b6b4c-074d-4dc4-866b-73b667dcbe93",
+            "Value": {
+                "id": "5ce2ae0f-667c-4b0b-8df1-a44c7a6dd59d",
+                "resourcePath": "sprites\\slayer02\\slayer02.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -372,6 +404,14 @@
                 "id": "f2ceb885-07de-4549-a99b-4000c0f831df",
                 "resourcePath": "views\\b27cc4bb-c817-493c-b145-720d63f323bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b79bdfd1-c567-402b-a80b-8ca18eab22cb",
+            "Value": {
+                "id": "aafba61a-7f48-44dc-8127-c74945164b65",
+                "resourcePath": "sprites\\slayer0\\slayer0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -503,10 +543,34 @@
             }
         },
         {
+            "Key": "ea79ac79-59f2-48bc-ba96-c5c880d1fae5",
+            "Value": {
+                "id": "0645da07-86cb-4507-8997-4cf8b1156fe5",
+                "resourcePath": "scripts\\ScreenShake\\ScreenShake.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eb90b8ea-832e-478a-9804-21bb6bab3ca7",
+            "Value": {
+                "id": "3cb468a1-d184-4e39-910d-009afde3ae9b",
+                "resourcePath": "sprites\\slayer04\\slayer04.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eb9d7980-969f-4c1e-a7d5-c2a91c98d15a",
             "Value": {
                 "id": "e4ac7d7b-3618-42ad-b459-c631d6f1d27d",
                 "resourcePath": "sprites\\sTrigger\\sTrigger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f176bafd-fb2b-4cb4-b15a-bf2b5bfeb86c",
+            "Value": {
+                "id": "772f211a-4d63-4011-9d96-9ba7da40e1c5",
+                "resourcePath": "sprites\\slayer06\\slayer06.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -544,7 +608,8 @@
         }
     ],
     "script_order": [
-        "cf0e76b5-e7d0-443b-947f-6dbb90dbc774"
+        "cf0e76b5-e7d0-443b-947f-6dbb90dbc774",
+        "ea79ac79-59f2-48bc-ba96-c5c880d1fae5"
     ],
     "tutorial": ""
 }
