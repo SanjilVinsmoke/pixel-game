@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "5ee9af6f-7398-4c19-b634-de3fd9d8839d",
+            "Value": {
+                "id": "dd18f90e-87a3-46c3-9a91-92150750a6ce",
+                "resourcePath": "sprites\\slayer09\\slayer09.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "652b5917-d074-4693-9c19-2812e72e1bd9",
             "Value": {
                 "id": "2d10c31f-c151-400b-ba57-4694c9ce076e",
@@ -196,6 +204,22 @@
                 "id": "82302087-52ef-434f-ae04-38df9f5b74ab",
                 "resourcePath": "views\\69acf96e-acff-4977-9540-3a4c1ac6a0ab.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6c7062d1-6a48-42d2-8395-03a757e952d1",
+            "Value": {
+                "id": "fba9eac9-26c3-4a29-a431-0fcde76fbbd2",
+                "resourcePath": "sprites\\slayer08\\slayer08.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6d9583df-2b77-4002-b908-719f2c7ad10d",
+            "Value": {
+                "id": "7f46d810-3cfb-4fcc-a58b-9ff524cfe8fb",
+                "resourcePath": "sprites\\slayer07\\slayer07.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +300,14 @@
                 "id": "ae1a672b-7c1b-4e4e-a9e5-19e3979a04ad",
                 "resourcePath": "objects\\oCamera\\oCamera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7eaaeaa5-7a2c-4eda-9b07-d14a1618cdd8",
+            "Value": {
+                "id": "16eba4a7-3de0-447b-913b-8e5319093590",
+                "resourcePath": "rooms\\rMenu\\rMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -428,6 +460,14 @@
                 "id": "04b2749d-7c1b-44f7-829b-c125942cf2fb",
                 "resourcePath": "notes\\compatibility_report_040719_2159225922.yy",
                 "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "c1665df6-4096-427f-9f0e-360a19d2c2c7",
+            "Value": {
+                "id": "1771142d-0426-450c-9749-a48a498c09da",
+                "resourcePath": "sprites\\Slayer10\\Slayer10.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
