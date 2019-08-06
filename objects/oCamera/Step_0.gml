@@ -8,6 +8,12 @@ if(instance_exists(follow))
 	xTo =follow.x;
 	yto = follow.y;
 	
+	if(other.object_index ==oPDead)
+	{
+		x=xTo;
+		y=yTo;
+	}
+	
 }
 
 // Update object Postion

@@ -30,6 +30,9 @@ if(mouse_check_button(mb_left)&& (firedelay <0))
 	recoil = 4;
 	firedelay = 5;
 	ScreenShake(2,10);
+	audio_sound_pitch(sShoot,choose(1,1.5,1.2,1.3,.8));
+	audio_play_sound(sShoot,5,false);
+	
 	// bullet firing
 	with (instance_create_layer(x,y,"Bullet",oBullet))
 	{

@@ -115,13 +115,19 @@ if(!place_meeting(x,y+1,oWall))
 }
 else
 {
+	if(sprite_index =sPlayerA)
+	{
+		audio_sound_pitch(snLanding,choose(1,1.5,1.2,1.3,.8));
+		audio_play_sound(snLanding,4,false);
+	}
 	image_speed = 1;
 	if (hsp == 0)
 	{
 		
 		sprite_index = splayer;
 	}	
-	else {
+	else 
+	{
 		
 		sprite_index = sPlayerR;
 		
