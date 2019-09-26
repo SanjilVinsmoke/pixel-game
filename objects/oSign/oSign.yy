@@ -5,12 +5,12 @@
     "name": "oSign",
     "eventList": [
         {
-            "id": "9d9ec45c-eb08-4c3b-8f7a-b5a8b6ab5f5c",
+            "id": "0e825c26-ed4c-4b70-8761-69416f77b3bd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 51,
+            "enumb": 54,
             "eventtype": 6,
             "m_owner": "9900e2ba-6957-479e-895f-625f3b8f058c"
         }
@@ -33,7 +33,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "156c9034-605b-4913-9cf6-f2de292c7540",
+            "id": "01949cd2-2ae0-4faf-8af0-58900e125327",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -42,7 +42,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "\"defult\"",
+            "value": "\"Hi\"",
             "varName": "text",
             "varType": 2
         }

@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "482dba21-a221-4737-914e-61514d8dfbb5",
+            "Value": {
+                "id": "1a088438-0433-43a1-9564-1f43c928327a",
+                "resourcePath": "rooms\\rTwo\\rTwo.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "52ce9cc2-19bf-47fb-8d5f-1ddc6736765f",
             "Value": {
                 "id": "d49fde23-6dd3-49ad-b784-01f0107f61c3",
@@ -268,6 +276,14 @@
                 "id": "2d10c31f-c151-400b-ba57-4694c9ce076e",
                 "resourcePath": "shaders\\shWhite\\shWhite.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "6898069d-4a23-4c69-a29d-6fe73dac61cd",
+            "Value": {
+                "id": "9e1a1f39-dcfe-4a90-81b1-d111694ba6b1",
+                "resourcePath": "sprites\\sTitle\\sTitle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -463,6 +479,14 @@
             }
         },
         {
+            "Key": "90213a9b-6b04-48d7-83a9-ab495a45cf7b",
+            "Value": {
+                "id": "eaf1ef1b-8c44-4074-9515-e2ff2f39beac",
+                "resourcePath": "sprites\\sprite32\\sprite32.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "911fe669-dcbb-4373-8358-2c85c9479cc2",
             "Value": {
                 "id": "be441509-6b67-41de-b3ed-c73c28d1b68a",
@@ -564,14 +588,6 @@
                 "id": "7f7e5c2b-37f3-40d9-8c0b-3fc0f979dea6",
                 "resourcePath": "notes\\compatibility_report_270619_210717717.yy",
                 "resourceType": "GMNotes"
-            }
-        },
-        {
-            "Key": "b06c956a-5950-476f-9fca-a38afe1ce208",
-            "Value": {
-                "id": "62a25c18-1e86-4e59-b63e-eaa6ff3b5a11",
-                "resourcePath": "rooms\\rThree\\rThree.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -708,14 +724,6 @@
                 "id": "f5861561-7805-4d73-afd7-bf4547db7cca",
                 "resourcePath": "sprites\\sBullet\\sBullet.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d9261b19-e3fe-48bc-b617-16f992f21339",
-            "Value": {
-                "id": "3e78ca8a-e2ed-4c3c-91b0-db4888458ebd",
-                "resourcePath": "rooms\\rTwo\\rTwo.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

@@ -17,6 +17,7 @@ repeat(menu_item) {
 
 
 
+
 if (menu_index != last_selected) {
 	audio_play_sound(snd_menu_switch, 1, false);
 	
